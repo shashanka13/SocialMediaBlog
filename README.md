@@ -9,4 +9,4 @@ AWS: Enables cloud hosting, storage, and scalability for the application.
 REST API: Powers communication between clients and backend services.
 Spring Security:
 Basic Authentication: For simple API endpoint security.
-JWT Authentication: For stateless, token-based authentication and user session management.
+JWT Authentication: For stateless, token-based authentication and user session management..
